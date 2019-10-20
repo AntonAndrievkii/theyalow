@@ -1373,3 +1373,18 @@ footer {
 
 
 }
+@media screen and (max-width: 426px){
+    .block_t{
+        width: 70%;
+    }
+}
+@media screen and (max-width: 375px){
+    .block_t{
+        width: 76%;
+    }
+}
+@media screen and (max-width: 320px){
+    .block_t{
+        width: 100%;
+    }
+}
